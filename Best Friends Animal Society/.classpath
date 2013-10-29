@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/selenium-server-2.35.0-srcs.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/selenium-server-2.35.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/selenium-server-standalone-2.35.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/flashselenium-java-client-extension-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/junit-4.11-SNAPSHOT-20120805-1225.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/mysql-connector-java-5.1.22-bin.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium_2.35.0/poi-3.8-20120326.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
